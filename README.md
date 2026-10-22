@@ -6,5 +6,5 @@ Projects:
 - ToDo App with Local Storage
 - City Library Loans
 
-- Contact:
+Contact:
 - https://github.com/nikolaivanovic1926
