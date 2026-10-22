@@ -2,8 +2,6 @@ Junior Frontend Developer focused on React, JavaScript, TypeScript. Building e-c
 Using HTML, CSS, JavaScript, React, Git..
 
 Projects:
-- React eCommerce App
-- ToDo App with Local Storage
 - City Library Loans
 
 Contact:
