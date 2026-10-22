@@ -2,7 +2,7 @@ Junior Frontend Developer focused on React, JavaScript, TypeScript. Building e-c
 Using HTML, CSS, JavaScript, React, Git..
 
 Projects:
-- City Library Loans
+- City Library Loans https://citylibraryloans.lovable.app
 
 Contact:
 - https://github.com/nikolaivanovic1926
