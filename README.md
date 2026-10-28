@@ -12,6 +12,7 @@
 
 ### Contact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-e11d2e?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-sandy-21ai9uphl7.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikola-ivanovic-801254446)
 
 ### Tools and technologies
