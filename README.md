@@ -8,7 +8,7 @@
 - 🎓 Graduate of ITAcademy
 - 📍 Based in Novi Sad, Serbia
 - 🌱 Currently improving my skills in React, TypeScript and UI/UX design
-- 🗣️ Languages: Serbian, English, German (B1)
+- 🗣️ Languages: Serbian, English(B2), German (A2)
 
 ### Contact
 
